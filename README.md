@@ -20,3 +20,8 @@ Designed based on the layered architecture model as follows:
 1. Application layer
 2. HAL: LCD, LM35 Temperature Sensor, DC-Motor.
 3. MCAL: GPIO , ADC , PWM.
+![OFF](https://github.com/AbdallahAhmed7/FAN_CONTROLLER_SYSTEM-ATMEGA32/assets/142527303/685e5a81-201d-457f-93f3-69b6be9e016f)
+
+![1](https://github.com/AbdallahAhmed7/FAN_CONTROLLER_SYSTEM-ATMEGA32/assets/142527303/88e93773-fa51-446c-8f52-3fdad68ce7bf)
+
+![2](https://github.com/AbdallahAhmed7/FAN_CONTROLLER_SYSTEM-ATMEGA32/assets/142527303/cbccd5c0-e684-4a9d-96cc-69ef667ade8a)
